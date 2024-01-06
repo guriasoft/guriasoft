@@ -9,3 +9,5 @@ guriasoft/guriasoft is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 my website link https://guriasoft.com/
+
+1. C++ Booleans - https://guriasoft.com/programming/cpp-programming/booleans
